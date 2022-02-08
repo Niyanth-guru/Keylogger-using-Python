@@ -8,4 +8,5 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 The packages that was used to develop this project was pynput
 
 ## Output screenshots
-<img src="Screenshot-images/input.png" width="500">
+<img src="Screenshot-images/Input.png" width="500">
+<img src="Screenshot-images/output.png" width="500">
