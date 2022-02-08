@@ -6,3 +6,6 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 
 # Packages required:
 The packages that was used to develop this project was pynput
+
+## Output screenshots
+<img src="Screenshot-images/input.png" width="500">
